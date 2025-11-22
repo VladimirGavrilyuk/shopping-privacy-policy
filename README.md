@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="0; url=privacy-policy.html">
+    <title>Shopping App - Legal Documents</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f5f5f5;
+            text-align: center;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            max-width: 500px;
+        }
+        h1 {
+            color: #1976d2;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 15px 0;
+        }
+        a {
+            display: inline-block;
+            color: #1976d2;
+            text-decoration: none;
+            padding: 10px 20px;
+            border: 2px solid #1976d2;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        a:hover {
+            background-color: #1976d2;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Shopping / Шопінг</h1>
+        <h2>Legal Documents</h2>
+        <p>Please select a document:</p>
+        <ul>
+            <li><a href="privacy-policy.html">Privacy Policy (English)</a></li>
+            <li><a href="privacy-policy-uk.html">Політика конфіденційності (Українська)</a></li>
+            <li><a href="privacy-policy-ru.html">Политика конфиденциальности (Русский)</a></li>
+            <li><a href="terms-of-service.html">Terms of Service (English)</a></li>
+            <li><a href="terms-of-service-uk.html">Умови використання (Українська)</a></li>
+            <li><a href="terms-of-service-ru.html">Условия использования (Русский)</a></li>
+        </ul>
+        <p style="margin-top: 30px; color: #666; font-size: 0.9em;">
+            <strong>Developer:</strong> Volodymyr Havryliuk<br>
+            <strong>Contact:</strong> vladimir.gavriljuk@gmail.com
+        </p>
+    </div>
+</body>
+</html>
